@@ -1,0 +1,268 @@
+D_code,D_name,Nama_Pemenang,Parti_Pemenang,Undi_Menang,Oppo.Nama,Oppo.Parti,Oppo.Undi,Majoriti,Penyandang.Nama,Penyandang.Parti
+N1,Opar,Billy ak. Sujang,GPS (SUPP),3659,"Ranum ak. Mina, Dato",PSB,1970,1689,"Ranum ak. Mina, Dato",PSB
+N1,Opar,Billy ak. Sujang,GPS (SUPP),3659,Freedy ak. Misid,PBK,1487,1689,"Ranum ak. Mina, Dato",PSB
+N1,Opar,Billy ak. Sujang,GPS (SUPP),3659,Meneng ak. Biris,PKR,327,1689,"Ranum ak. Mina, Dato",PSB
+N1,Opar,Billy ak. Sujang,GPS (SUPP),3659,Saini ak. Kakong,PBDSB,220,1689,"Ranum ak. Mina, Dato",PSB
+N1,Opar,Billy ak. Sujang,GPS (SUPP),3659,Bayang ak. Teron,SEDAR,160,1689,"Ranum ak. Mina, Dato",PSB
+N2,Tasik Biru,"Henry @ Harry  ak. Jinep, Dato",GPS (PDP),6325,Paul Shanon Kenbell Barin,PBK,2113,4212,"Henry @ Harry  ak. Jinep, Dato",GPS (PDP)
+N2,Tasik Biru,"Henry @ Harry  ak. Jinep, Dato",GPS (PDP),6325,"Tiki ak. Lafe, Datuk Dr.",PSB,1980,4212,"Henry @ Harry  ak. Jinep, Dato",GPS (PDP)
+N2,Tasik Biru,"Henry @ Harry  ak. Jinep, Dato",GPS (PDP),6325,Granda ak. Aing,DAP,1359,4212,"Henry @ Harry  ak. Jinep, Dato",GPS (PDP)
+N3,Tanjung Datu,Azizul Annuar bin Adenan,GPS (PBB),5423,Jery'in bin Fauzi,PSB,921,4502,"Jamilah Anu, Puan Sri Datuk Amar Hajah",GPS (PBB)
+N3,Tanjung Datu,Azizul Annuar bin Adenan,GPS (PBB),5423,Abdul Talip bin Ba'ee,Bebas,261,4502,"Jamilah Anu, Puan Sri Datuk Amar Hajah",GPS (PBB)
+N3,Tanjung Datu,Azizul Annuar bin Adenan,GPS (PBB),5423,Goem ak. Pijar,PBK,226,4502,"Jamilah Anu, Puan Sri Datuk Amar Hajah",GPS (PBB)
+N4,Pantai Damai,"Abdul Rahman bin Junaidi, Datuk Dr Haji",GPS (PBB),10699,Mahmud bin Sabli,PSB,2318,8381,"Abdul Rahman Junaidi, Datuk Dr Haji",GPS (PBB)
+N5,Demak Laut,"Hazland bin Abang Hipni, Dr Haji",GPS (PBB),7636,Yatika binti Jelani,PSB,1237,6399,"Hazland Abang Hipni, Dr Haji",GPS (PBB)
+N5,Demak Laut,"Hazland bin Abang Hipni, Dr Haji",GPS (PBB),7636,Khairul bin Ahmat,Bebas,674,6399,"Hazland Abang Hipni, Dr Haji",GPS (PBB)
+N5,Demak Laut,"Hazland bin Abang Hipni, Dr Haji",GPS (PBB),7636,Mohamad Zen bin Peli,AMANAH,212,6399,"Hazland Abang Hipni, Dr Haji",GPS (PBB)
+N6,Tupong,Fazzrudin bin Abdul Rahman,GPS (PBB),12544,Ahmad Nazib bin Johari,PKR,1335,11209,Fazzrudin Abdul Rahman,GPS (PBB)
+N6,Tupong,Fazzrudin bin Abdul Rahman,GPS (PBB),12544,Chan Haong Yen,PBK,836,11209,Fazzrudin Abdul Rahman,GPS (PBB)
+N7,Samariang,"Sharifah Hasidah binti Sayeed Aman Ghazali, Datuk Hajah",GPS (PBB),11354,Abang Abdul Halil bin Abang Naili,AMANAH,1071,10283,"Sharifah Hasidah Sayeed Aman Ghazali, Datuk Hajah",GPS (PBB)
+N7,Samariang,"Sharifah Hasidah binti Sayeed Aman Ghazali, Datuk Hajah",GPS (PBB),11354,Othman bin Abdillah,SEDAR,535,10283,"Sharifah Hasidah Sayeed Aman Ghazali, Datuk Hajah",GPS (PBB)
+N8,Satok,"Ibrahim bin Baki, Datuk",GPS (PBB),6991,"Nor Irwan bin Ahmat Nor, Datuk Ir. Dr.",PKR,958,6033,"Abang Haji Abdul Rahman Zohari Abang Openg, Tan Sri Datuk Patinggi Dr.",GPS (PBB)
+N8,Satok,"Ibrahim bin Baki, Datuk",GPS (PBB),6991,Awang Badele bin Awang Ali,PBK,415,6033,"Abang Haji Abdul Rahman Zohari Abang Openg, Tan Sri Datuk Patinggi Dr.",GPS (PBB)
+N9,Padungan,Chong Chieng Jen,DAP,4686,"Wee Hong Seng, Datuk",GPS (SUPP),3488,1198,Wong King Wei,BEBAS
+N9,Padungan,Chong Chieng Jen,DAP,4686,Raymond Thong Ee Yu,PBK,930,1198,Wong King Wei,BEBAS
+N9,Padungan,Chong Chieng Jen,DAP,4686,Lina Soo,ASPIRASI,193,1198,Wong King Wei,BEBAS
+N10,Pending,Violet Yong Wui Wui,DAP,5188,Milton Foo Tiang Wee,GPS (SUPP),4648,540,Violet Yong Wui Wui,PH (DAP)
+N10,Pending,Violet Yong Wui Wui,DAP,5188,Tan Kay Hok,PSB,1858,540,Violet Yong Wui Wui,PH (DAP)
+N10,Pending,Violet Yong Wui Wui,DAP,5188,Teo Kuang Kim,PBK,978,540,Violet Yong Wui Wui,PH (DAP)
+N10,Pending,Violet Yong Wui Wui,DAP,5188,Chan Chee Hiong,ASPIRASI,204,540,Violet Yong Wui Wui,PH (DAP)
+N11,Batu Lintang,See Chee How,PSB,4420,Sih Hua Tong,GPS (SUPP),4327,93,See Chee How,PSB
+N11,Batu Lintang,See Chee How,PSB,4420,Cherishe Ng Phuay Hui,PKR,1823,93,See Chee How,PSB
+N11,Batu Lintang,See Chee How,PSB,4420,Voon Lee Shan,PBK,1570,93,See Chee How,PSB
+N11,Batu Lintang,See Chee How,PSB,4420,Leong Shaow Tung,ASPIRASI,187,93,See Chee How,PSB
+N12,Kota Sentosa,Yap Yau Sin,GPS (SUPP),5806,Michael Kong Feng Nian,DAP,4123,1683,Chong Chieng Jen,PH (DAP)
+N12,Kota Sentosa,Yap Yau Sin,GPS (SUPP),5806,"Lau Pang Heng, Datuk Dr",PSB,2328,1683,Chong Chieng Jen,PH (DAP)
+N12,Kota Sentosa,Yap Yau Sin,GPS (SUPP),5806,Lue Cheng Hing,PBK,1015,1683,Chong Chieng Jen,PH (DAP)
+N12,Kota Sentosa,Yap Yau Sin,GPS (SUPP),5806,Tan Kok Chiang,ASPIRASI,215,1683,Chong Chieng Jen,PH (DAP)
+N13,Batu Kitang,Lo Khere Chiang,GPS (SUPP),6307,Abdul Aziz Isa bin Marindo,DAP,2144,4163,"Lo Khere Chiang, Ir",GPS (SUPP)
+N13,Batu Kitang,Lo Khere Chiang,GPS (SUPP),6307,Liu Thian Leong,PSB,1812,4163,"Lo Khere Chiang, Ir",GPS (SUPP)
+N13,Batu Kitang,Lo Khere Chiang,GPS (SUPP),6307,Wong Tun Teck,PBK,675,4163,"Lo Khere Chiang, Ir",GPS (SUPP)
+N14,Batu Kawah,"Sim Kui Hian, Dato Sri Prof. Dr",GPS (SUPP),7827,"Kelvin Yii Lee Wuen, Dr",DAP,2434,5393,"Sim Kui Hian, Dato Sri Prof. Dr",GPS (SUPP)
+N14,Batu Kawah,"Sim Kui Hian, Dato Sri Prof. Dr",GPS (SUPP),7827,Chai Kueh Khun,PBK,756,5393,"Sim Kui Hian, Dato Sri Prof. Dr",GPS (SUPP)
+N14,Batu Kawah,"Sim Kui Hian, Dato Sri Prof. Dr",GPS (SUPP),7827,Fong Pau Teck,ASPIRASI,133,5393,"Sim Kui Hian, Dato Sri Prof. Dr",GPS (SUPP)
+N15,Asajaya,"Abd. Karim Rahman bin Hamzah, Dato Sri Haji",GPS (PBB),6380,Ishak bin Buji,PSB,1849,4531,"Abd. Karim Rahman Hamzah, Dato Sri Haji",GPS (PBB)
+N15,Asajaya,"Abd. Karim Rahman bin Hamzah, Dato Sri Haji",GPS (PBB),6380,Mahmud bin Epah,PKR,721,4531,"Abd. Karim Rahman Hamzah, Dato Sri Haji",GPS (PBB)
+N15,Asajaya,"Abd. Karim Rahman bin Hamzah, Dato Sri Haji",GPS (PBB),6380,Mohamad Hamdeen bin Saharuddin,PBK,159,4531,"Abd. Karim Rahman Hamzah, Dato Sri Haji",GPS (PBB)
+N16,Muara Tuang,"Idris bin Buang, Dato Haji",GPS (PBB),8435,Ismawi bin Muhammad,Bebas,2198,6237,"Idris Buang, Dato Haji",GPS (PBB)
+N16,Muara Tuang,"Idris bin Buang, Dato Haji",GPS (PBB),8435,Yakup bin Khalid,PSB,1838,6237,"Idris Buang, Dato Haji",GPS (PBB)
+N16,Muara Tuang,"Idris bin Buang, Dato Haji",GPS (PBB),8435,Hipni bin Sulaiman,SEDAR,357,6237,"Idris Buang, Dato Haji",GPS (PBB)
+N16,Muara Tuang,"Idris bin Buang, Dato Haji",GPS (PBB),8435,"Daud bin Eali, Haji",AMANAH,239,6237,"Idris Buang, Dato Haji",GPS (PBB)
+N16,Muara Tuang,"Idris bin Buang, Dato Haji",GPS (PBB),8435,Sigandam bin Sulaiman,PBK,190,6237,"Idris Buang, Dato Haji",GPS (PBB)
+N17,Stakan,"Hamzah bin Brahim, Datuk",GPS (PBB),7854,Leslie Ting Xiang Zhi,DAP,2047,5807,"Mohammad Ali Mahmud, Datuk Amar Haji",GPS (PBB)
+N17,Stakan,"Hamzah bin Brahim, Datuk",GPS (PBB),7854,George Young Si Ricord Junior,PSB,524,5807,"Mohammad Ali Mahmud, Datuk Amar Haji",GPS (PBB)
+N17,Stakan,"Hamzah bin Brahim, Datuk",GPS (PBB),7854,Atet ak. Dego,PBK,415,5807,"Mohammad Ali Mahmud, Datuk Amar Haji",GPS (PBB)
+N18,Serembu,Miro ak. Simuh,GPS (PBB),4068,Iana ak. Akam,PSB,2418,1650,Miro  ak. Simuh,GPS (PBB)
+N18,Serembu,Miro ak. Simuh,GPS (PBB),4068,Jecky ak. Misieng,PBK,257,1650,Miro  ak. Simuh,GPS (PBB)
+N18,Serembu,Miro ak. Simuh,GPS (PBB),4068,Michael Saweng,PKR,217,1650,Miro  ak. Simuh,GPS (PBB)
+N18,Serembu,Miro ak. Simuh,GPS (PBB),4068,Buln Ribos,ASPIRASI,92,1650,Miro  ak. Simuh,GPS (PBB)
+N19,Mambong,"Jerip ak. Susil, Datuk Dr",GPS (PBB),5865,Sanjam ak. Daik,PSB,2794,3071,"Jerip ak. Susil, Datuk Dr",GPS (PBB)
+N19,Mambong,"Jerip ak. Susil, Datuk Dr",GPS (PBB),5865,Chang Hon Hiuong,DAP,1517,3071,"Jerip ak. Susil, Datuk Dr",GPS (PBB)
+N19,Mambong,"Jerip ak. Susil, Datuk Dr",GPS (PBB),5865,Joshua Roman,PBK,958,3071,"Jerip ak. Susil, Datuk Dr",GPS (PBB)
+N19,Mambong,"Jerip ak. Susil, Datuk Dr",GPS (PBB),5865,Chong Siew Hung,ASPIRASI,144,3071,"Jerip ak. Susil, Datuk Dr",GPS (PBB)
+N20,Tarat,"Roland Sagah Wee Inn, Datuk",GPS (PBB),6500,Dadi @ Tiap ak. Juul,PSB,1492,5008,"Roland Sagah Wee Inn, Datuk",GPS (PBB)
+N20,Tarat,"Roland Sagah Wee Inn, Datuk",GPS (PBB),6500,Christo ak. Michael,PKR,1445,5008,"Roland Sagah Wee Inn, Datuk",GPS (PBB)
+N20,Tarat,"Roland Sagah Wee Inn, Datuk",GPS (PBB),6500,Edison Jamang,PBK,1182,5008,"Roland Sagah Wee Inn, Datuk",GPS (PBB)
+N20,Tarat,"Roland Sagah Wee Inn, Datuk",GPS (PBB),6500,Bai @ Udin ak. Dungak,Bebas,169,5008,"Roland Sagah Wee Inn, Datuk",GPS (PBB)
+N21,Tebedu,"Simon Sinang @ Sinang ak. Bada, Dr",GPS (PBB),5082,Cheyne Kambeng @ Raymond Achen,PSB,1809,3273,"Michael Manyin ak. Jawong, Datuk Amar",GPS (PBB)
+N21,Tebedu,"Simon Sinang @ Sinang ak. Bada, Dr",GPS (PBB),5082,Jonathan Lantik Ok,PBK,614,3273,"Michael Manyin ak. Jawong, Datuk Amar",GPS (PBB)
+N21,Tebedu,"Simon Sinang @ Sinang ak. Bada, Dr",GPS (PBB),5082,Senior ak. William Rade,PKR,610,3273,"Michael Manyin ak. Jawong, Datuk Amar",GPS (PBB)
+N21,Tebedu,"Simon Sinang @ Sinang ak. Bada, Dr",GPS (PBB),5082,Roland ak. Bangu,Bebas,106,3273,"Michael Manyin ak. Jawong, Datuk Amar",GPS (PBB)
+N22,Kedup,Maclaine Ben @ Martin Ben,GPS (PBB),5178,Dominic Dado ak. Sagin,PSB,1612,3566,Maclaine Ben @ Martin Ben,GPS (PBB)
+N22,Kedup,Maclaine Ben @ Martin Ben,GPS (PBB),5178,"Stephen Morgan Sungan, Dr.",PBK,745,3566,Maclaine Ben @ Martin Ben,GPS (PBB)
+N22,Kedup,Maclaine Ben @ Martin Ben,GPS (PBB),5178,Laerry ak. Jabul,DAP,640,3566,Maclaine Ben @ Martin Ben,GPS (PBB)
+N23,Bukit Semuja,John ak. Ilus,GPS (PBB),6113,Elsiy ak. Tingang,PSB,1408,4705,John ak. Ilus,GPS
+N23,Bukit Semuja,John ak. Ilus,GPS (PBB),6113,Brolin Nicholsion Benedict Achung,DAP,777,4705,John ak. Ilus,GPS
+N23,Bukit Semuja,John ak. Ilus,GPS (PBB),6113,Edward Andrew Luwak,PBK,427,4705,John ak. Ilus,GPS
+N24,Sadong Jaya,"Aidel bin Lariwoo, Ir",GPS (PBB),4333,Nur Khairunisa binti Adbullah,PSB,456,3877,"Aidel bin Lariwoo, Ir",GPS (PBB)
+N24,Sadong Jaya,"Aidel bin Lariwoo, Ir",GPS (PBB),4333,Piee Ling,PKR,319,3877,"Aidel bin Lariwoo, Ir",GPS (PBB)
+N24,Sadong Jaya,"Aidel bin Lariwoo, Ir",GPS (PBB),4333,Jolhi Haji Bee,PBK,115,3877,"Aidel bin Lariwoo, Ir",GPS (PBB)
+N25,Simunjan,Awla bin Dris,GPS (PBB),4276,Raily @ Reli bin Ali,PSB,925,3351,Awla Dris,GPS (PBB)
+N25,Simunjan,Awla bin Dris,GPS (PBB),4276,Hapeni bin Fadil,PKR,518,3351,Awla Dris,GPS (PBB)
+N25,Simunjan,Awla bin Dris,GPS (PBB),4276,Saharuddin bin Abdullah,PBK,137,3351,Awla Dris,GPS (PBB)
+N26,Gedong,"Abang Haji Abdul Rahman Zohari bin Abang Openg, Tan Sri Datuk Patinggi Dr.",GPS (PBB),4310,Mohamad Sofian Fariz bin Sharbini,PSB,703,3607,"Mohd Naroden Haji Majais, Datuk Haji",GPS (PBB)
+N26,Gedong,"Abang Haji Abdul Rahman Zohari bin Abang Openg, Tan Sri Datuk Patinggi Dr.",GPS (PBB),4310,Tomson Ango,PBK,157,3607,"Mohd Naroden Haji Majais, Datuk Haji",GPS (PBB)
+N26,Gedong,"Abang Haji Abdul Rahman Zohari bin Abang Openg, Tan Sri Datuk Patinggi Dr.",GPS (PBB),4310,Kamal bin Bujang,AMANAH,94,3607,"Mohd Naroden Haji Majais, Datuk Haji",GPS (PBB)
+N27,Sebuyau,"Julaihi Haji Narawi, Datuk Haji",GPS (PBB),4937,Wel @ Maxwel ak. Rojis,AMANAH,803,4134,"Julaihi Haji Narawi, Datuk Haji",GPS (PBB)
+N27,Sebuyau,"Julaihi Haji Narawi, Datuk Haji",GPS (PBB),4937,Wan Chee bin Wan Mahjar,PBK,486,4134,"Julaihi Haji Narawi, Datuk Haji",GPS (PBB)
+N28,Lingga,Dayang Noorazah binti Awang Sohor,GPS (PBB),3700,"Wan Abdillah Edruce bin Wan Abdul Rahman, Datuk",PSB,1427,2273,"Simoi Haji Peri, Dato Hajah",GPS (PBB)
+N28,Lingga,Dayang Noorazah binti Awang Sohor,GPS (PBB),3700,Mohd Sepian bin Abang Daud,Bebas,880,2273,"Simoi Haji Peri, Dato Hajah",GPS (PBB)
+N28,Lingga,Dayang Noorazah binti Awang Sohor,GPS (PBB),3700,Baha ak. Imam,PBK,139,2273,"Simoi Haji Peri, Dato Hajah",GPS (PBB)
+N28,Lingga,Dayang Noorazah binti Awang Sohor,GPS (PBB),3700,Abang Abdul Kasim bin Abang Bujang,PKR,130,2273,"Simoi Haji Peri, Dato Hajah",GPS (PBB)
+N28,Lingga,Dayang Noorazah binti Awang Sohor,GPS (PBB),3700,Abang Ahmad bin Abang Suni,SEDAR,92,2273,"Simoi Haji Peri, Dato Hajah",GPS (PBB)
+N29,Beting Maro,"Razaili bin Haji Gapor, Haji",GPS (PBB),3769,Mohamad Arifiriazul bin Paijo,PAS,2058,1711,"Razaili Haji Gapor, Haji",GPS (PBB)
+N29,Beting Maro,"Razaili bin Haji Gapor, Haji",GPS (PBB),3769,Abang Zulkifli bin Abang Engkeh,PKR,765,1711,"Razaili Haji Gapor, Haji",GPS (PBB)
+N29,Beting Maro,"Razaili bin Haji Gapor, Haji",GPS (PBB),3769,Safiudin bin Matsah,Bebas,636,1711,"Razaili Haji Gapor, Haji",GPS (PBB)
+N29,Beting Maro,"Razaili bin Haji Gapor, Haji",GPS (PBB),3769,Jackie Chiew Su Chee,PBK,74,1711,"Razaili Haji Gapor, Haji",GPS (PBB)
+N30,Balai Ringin,"Snowdan Lawan, Datuk",GPS (PRS),4816,"Masir ak. Kujat, Dato",PSB,3531,1285,"Snowdan Lawan, Datuk",GPS (PRS)
+N30,Balai Ringin,"Snowdan Lawan, Datuk",GPS (PRS),4816,Kasim ak. Mana,PBK,195,1285,"Snowdan Lawan, Datuk",GPS (PRS)
+N31,Bukit Begunan,"Mong ak. Dagang, Datuk",GPS (PRS),4054,Norina Umoi ak. Utot,PSB,2652,1402,"Mong ak. Dagang, Datuk",GPS (PRS)
+N31,Bukit Begunan,"Mong ak. Dagang, Datuk",GPS (PRS),4054,Entusa ak. Imam,PBDSB,115,1402,"Mong ak. Dagang, Datuk",GPS (PRS)
+N31,Bukit Begunan,"Mong ak. Dagang, Datuk",GPS (PRS),4054,Winton Langang ak. Sangga,PBK,86,1402,"Mong ak. Dagang, Datuk",GPS (PRS)
+N32,Simanggang,"Francis Harden ak. Hollis, Datuk",GPS (SUPP),3954,Walsin @ Wilson ak. Entabang,PSB,3779,175,"Francis Harden ak. Hollis, Datuk",GPS (SUPP)
+N32,Simanggang,"Francis Harden ak. Hollis, Datuk",GPS (SUPP),3954,Leon Jimat Donald,DAP,212,175,"Francis Harden ak. Hollis, Datuk",GPS (SUPP)
+N32,Simanggang,"Francis Harden ak. Hollis, Datuk",GPS (SUPP),3954,Peli ak. Aron,PBK,135,175,"Francis Harden ak. Hollis, Datuk",GPS (SUPP)
+N33,Engkilili,"Johnichal Rayong ak. Ngipa, Dr.",PSB,3246,Desmond Sateng ak. Sanjan,GPS (SUPP),2055,1191,"Johnical Rayong ak. Ngipa, Dr",PSB
+N33,Engkilili,"Johnichal Rayong ak. Ngipa, Dr.",PSB,3246,Gemong ak. Batu,Bebas,2013,1191,"Johnical Rayong ak. Ngipa, Dr",PSB
+N33,Engkilili,"Johnichal Rayong ak. Ngipa, Dr.",PSB,3246,Stel ak. Datu,PBK,151,1191,"Johnical Rayong ak. Ngipa, Dr",PSB
+N34,Batang Ai,"Malcom Mussen ak. Lamoh, Datuk Dr.",GPS (PRS),3208,John Linang ak. Mereejon,Bebas,2470,738,"Malcom Mussen ak. Lamoh, Datuk Dr.",GPS (PRS)
+N34,Batang Ai,"Malcom Mussen ak. Lamoh, Datuk Dr.",GPS (PRS),3208,"William @ Nyallau ak. Badak, Datuk",PSB,1366,738,"Malcom Mussen ak. Lamoh, Datuk Dr.",GPS (PRS)
+N34,Batang Ai,"Malcom Mussen ak. Lamoh, Datuk Dr.",GPS (PRS),3208,Usop ak. Asun,PBK,151,738,"Malcom Mussen ak. Lamoh, Datuk Dr.",GPS (PRS)
+N35,Saribas,Ricky @ Mohamad Razi bin Sitam,GPS (PBB),5138,Patek @ Patrick Haji Kamis,PKR,1902,3236,Ricky @ Mohamad Razi bin Sitam,GPS (PBB)
+N35,Saribas,Ricky @ Mohamad Razi bin Sitam,GPS (PBB),5138,Melainie bin Bolhassan,PSB,668,3236,Ricky @ Mohamad Razi bin Sitam,GPS (PBB)
+N35,Saribas,Ricky @ Mohamad Razi bin Sitam,GPS (PBB),5138,Sim Min Leong,PBK,74,3236,Ricky @ Mohamad Razi bin Sitam,GPS (PBB)
+N35,Saribas,Ricky @ Mohamad Razi bin Sitam,GPS (PBB),5138,Kurnaen bin Boben,SEDAR,60,3236,Ricky @ Mohamad Razi bin Sitam,GPS (PBB)
+N36,Layar,"Gerald Rentap Jabu, Datuk",GPS (PBB),3891,Isik ak. Utau,PSB,1852,2039,"Gerald Rentap Jabu, Datuk",GPS (PBB)
+N37,Bukit Saban,"Douglas Uggah Embas, Datuk Amar",GPS (PBB),5373,Andria Gelayan ak. Dundang,PSB,1385,3988,"Douglas Uggah Embas, Datuk Amar",GPS (PBB)
+N37,Bukit Saban,"Douglas Uggah Embas, Datuk Amar",GPS (PBB),5373,Mikail Mathew Abdullah,PKR,136,3988,"Douglas Uggah Embas, Datuk Amar",GPS (PBB)
+N38,Kalaka,Mohamad bin Duri,GPS (PBB),3893,John Antau ak. Linggang,PSB,1025,2868,"Abdul Wahab Aziz, Datuk Haji",GPS (PBB)
+N38,Kalaka,Mohamad bin Duri,GPS (PBB),3893,Linang ak. Chapum,PBK,457,2868,"Abdul Wahab Aziz, Datuk Haji",GPS (PBB)
+N39,Krian,Friday ak. Belik,GPS (PDP),3885,Musa ak. Dinggat,PSB,2953,932,"Ali ak. Biju, Datuk",BERSATU
+N39,Krian,Friday ak. Belik,GPS (PDP),3885,"Ali ak. Biju, Datuk",Bebas,1777,932,"Ali ak. Biju, Datuk",BERSATU
+N39,Krian,Friday ak. Belik,GPS (PDP),3885,Danny Kuan Sam Sui,PBK,282,932,"Ali ak. Biju, Datuk",BERSATU
+N40,Kabong,Mohamad Chee bin Kadir,GPS (PBB),4789,Wan Mohamad Madehi bin Wan Ali,PSB,2026,2763,Mohamad Chee Kadir,GPS (PBB)
+N40,Kabong,Mohamad Chee bin Kadir,GPS (PBB),4789,Mohamad Asri bin Kassim,PBK,208,2763,Mohamad Chee Kadir,GPS (PBB)
+N40,Kabong,Mohamad Chee bin Kadir,GPS (PBB),4789,Andri Zulkarnaen bin Hamden,AMANAH,91,2763,Mohamad Chee Kadir,GPS (PBB)
+N41,Kuala Rajang,"Len Talif Salleh, Datuk Haji",GPS (PBB),5268,"Abang Aditajaya Abang Alwi, Datuk Seri",Bebas,1943,3325,"Len Talif Salleh, Datuk Haji",GPS (PBB)
+N41,Kuala Rajang,"Len Talif Salleh, Datuk Haji",GPS (PBB),5268,Abd Mutalip bin Abdullah,Bebas,168,3325,"Len Talif Salleh, Datuk Haji",GPS (PBB)
+N41,Kuala Rajang,"Len Talif Salleh, Datuk Haji",GPS (PBB),5268,Wong Ling Ching,PBK,109,3325,"Len Talif Salleh, Datuk Haji",GPS (PBB)
+N42,Semop,"Abdullah bin Saidol, Datuk",GPS (PBB),4338,Abdul Raafidin bin Majidi,PSB,1180,3158,"Abdullah Saidol, Datuk",GPS (PBB)
+N42,Semop,"Abdullah bin Saidol, Datuk",GPS (PBB),4338,Mohamad Adenan bin Zulkeppli,Bebas,811,3158,"Abdullah Saidol, Datuk",GPS (PBB)
+N42,Semop,"Abdullah bin Saidol, Datuk",GPS (PBB),4338,Mohamad Fadillah bin Sabali,AMANAH,270,3158,"Abdullah Saidol, Datuk",GPS (PBB)
+N42,Semop,"Abdullah bin Saidol, Datuk",GPS (PBB),4338,Jenny Wong Khing Ling,PBK,118,3158,"Abdullah Saidol, Datuk",GPS (PBB)
+N43,Daro,Safiee bin Haji Ahmad,GPS (PBB),5317,Jamal bin Ibrahim,Bebas,205,5112,Safiee Ahmad,GPS (PBB)
+N43,Daro,Safiee bin Haji Ahmad,GPS (PBB),5317,Ting Ing Hua,PBK,184,5112,Safiee Ahmad,GPS (PBB)
+N44,Jemoreng,"Juanda bin Jaya, Dato' Murshid Diraja Dr",GPS (PBB),5623,Osman bin Rafaie,Bebas,611,5012,"Juanda Jaya, Dato' Murshid Diraja Dr",GPS (PBB)
+N44,Jemoreng,"Juanda bin Jaya, Dato' Murshid Diraja Dr",GPS (PBB),5623,Zainab binti Suhaili,AMANAH,244,5012,"Juanda Jaya, Dato' Murshid Diraja Dr",GPS (PBB)
+N45,Repok,"Huang Tiong Sii, Dato' Sri",GPS (SUPP),10038,Philip Wong Pak Ming,DAP,2730,7308,"Huang Tiong Sii, Dato' Sri",GPS
+N45,Repok,"Huang Tiong Sii, Dato' Sri",GPS (SUPP),10038,Joseph Wong Kung King,PBK,738,7308,"Huang Tiong Sii, Dato' Sri",GPS
+N45,Repok,"Huang Tiong Sii, Dato' Sri",GPS (SUPP),10038,Wong Chin King,ASPIRASI,216,7308,"Huang Tiong Sii, Dato' Sri",GPS
+N46,Meradong,"Ding Kuong Hiing, Datuk",GPS (SUPP),6827,Hii Ru Yee,PSB,3465,3362,"Ding Kuong Hiing, Datuk",GPS (SUPP)
+N46,Meradong,"Ding Kuong Hiing, Datuk",GPS (SUPP),6827,Yong Siew Wei,DAP,809,3362,"Ding Kuong Hiing, Datuk",GPS (SUPP)
+N46,Meradong,"Ding Kuong Hiing, Datuk",GPS (SUPP),6827,Moh Hiong King,PBK,622,3362,"Ding Kuong Hiing, Datuk",GPS (SUPP)
+N47,Pakan,"William Mawan ak. Ikom, Tan Sri",GPS (PBB),3268,Tedong ak. Chakaw,Bebas,2554,714,"William Mawan ak. Ikom, Tan Sri",GPS (PDP)
+N47,Pakan,"William Mawan ak. Ikom, Tan Sri",GPS (PBB),3268,Hareward Gramong ak. Joseph Allen,PSB,1484,714,"William Mawan ak. Ikom, Tan Sri",GPS (PDP)
+N47,Pakan,"William Mawan ak. Ikom, Tan Sri",GPS (PBB),3268,Brawi Anguong,Bebas,506,714,"William Mawan ak. Ikom, Tan Sri",GPS (PDP)
+N47,Pakan,"William Mawan ak. Ikom, Tan Sri",GPS (PBB),3268,Jemeli ak. Keraj,PBK,133,714,"William Mawan ak. Ikom, Tan Sri",GPS (PDP)
+N48,Meluan,Rolland Duat ak. Jubin,GPS (PDP),5269,Elly Lawai ak. Ngalai,PSB,4447,822,Rolland Duat ak. Jubin,GPS (PDP)
+N48,Meluan,Rolland Duat ak. Jubin,GPS (PDP),5269,Abdul Hamid bin Siong,PBK,186,822,Rolland Duat ak. Jubin,GPS (PDP)
+N49,Ngemah,Anyi ak. Jana,GPS (PRS),3193,"Joseph Jawa ak. Kendawang, Dr",PSB,2932,261,Alexander ak. Vincent,GPS (PRS)
+N49,Ngemah,Anyi ak. Jana,GPS (PRS),3193,Leo ak. Bunsu,PBDSB,354,261,Alexander ak. Vincent,GPS (PRS)
+N49,Ngemah,Anyi ak. Jana,GPS (PRS),3193,Satu Anchom,PKR,259,261,Alexander ak. Vincent,GPS (PRS)
+N49,Ngemah,Anyi ak. Jana,GPS (PRS),3193,Charlie ak. Genam,PBK,169,261,Alexander ak. Vincent,GPS (PRS)
+N50,Machan,Allan Siden Gramong,GPS (PBB),4155,Madang ak. Dimbab,PSB,2066,2089,Allan Siden Gramong,GPS (PBB)
+N50,Machan,Allan Siden Gramong,GPS (PBB),4155,Mohd Fauzi Abdullah @ Joseph Nyambong,PKR,1267,2089,Allan Siden Gramong,GPS (PBB)
+N50,Machan,Allan Siden Gramong,GPS (PBB),4155,Mary Rita ak. Mathias,PBK,203,2089,Allan Siden Gramong,GPS (PBB)
+N50,Machan,Allan Siden Gramong,GPS (PBB),4155,Ngelayang ak. Unau,ASPIRASI,52,2089,Allan Siden Gramong,GPS (PBB)
+N51,Bukit Assek,Chieng Jin Ek,GPS (SUPP),4684,Irene Mary Chang Oi Ling,DAP,3810,874,Irene Mary Chang Oi Ling,PH (DAP)
+N51,Bukit Assek,Chieng Jin Ek,GPS (SUPP),4684,Priscilla Lau,PBK,2598,874,Irene Mary Chang Oi Ling,PH (DAP)
+N51,Bukit Assek,Chieng Jin Ek,GPS (SUPP),4684,Ting Kee Nguan,PSB,1790,874,Irene Mary Chang Oi Ling,PH (DAP)
+N51,Bukit Assek,Chieng Jin Ek,GPS (SUPP),4684,Hii Tiong Huat,Bebas,313,874,Irene Mary Chang Oi Ling,PH (DAP)
+N51,Bukit Assek,Chieng Jin Ek,GPS (SUPP),4684,Jess Lau Kiu Ming,ASPIRASI,209,874,Irene Mary Chang Oi Ling,PH (DAP)
+N52,Dudong,"Tiong King Sing, Dato Seri",GPS (PDP),9390,Wong Hie Ping,PSB,3584,5806,"Tiong Thai King, Datuk",PSB
+N52,Dudong,"Tiong King Sing, Dato Seri",GPS (PDP),9390,Paul Ling Fong,DAP,2724,5806,"Tiong Thai King, Datuk",PSB
+N52,Dudong,"Tiong King Sing, Dato Seri",GPS (PDP),9390,Jane Lau Sing Wee,PBK,1779,5806,"Tiong Thai King, Datuk",PSB
+N52,Dudong,"Tiong King Sing, Dato Seri",GPS (PDP),9390,Fadhil Mohamad Isa (Cardock),Bebas,1178,5806,"Tiong Thai King, Datuk",PSB
+N52,Dudong,"Tiong King Sing, Dato Seri",GPS (PDP),9390,Julius Enchana ak. Jaspher Ancho,PBDSB,893,5806,"Tiong Thai King, Datuk",PSB
+N52,Dudong,"Tiong King Sing, Dato Seri",GPS (PDP),9390,Engga ak. Unchat,Bebas,225,5806,"Tiong Thai King, Datuk",PSB
+N52,Dudong,"Tiong King Sing, Dato Seri",GPS (PDP),9390,Josephine Lau Kiew Ping,ASPIRASI,212,5806,"Tiong Thai King, Datuk",PSB
+N53,Bawang Assan,"Wong Soon Koh, Dato' Sri",PSB,5952,Robert Lau Hui Yew,GPS (SUPP),5039,913,"Wong Soon Koh, Dato' Sri",PSB
+N53,Bawang Assan,"Wong Soon Koh, Dato' Sri",PSB,5952,Amy Lau Bik Yeing,DAP,1173,913,"Wong Soon Koh, Dato' Sri",PSB
+N53,Bawang Assan,"Wong Soon Koh, Dato' Sri",PSB,5952,Michelle Ling Shyan Mih,PBK,954,913,"Wong Soon Koh, Dato' Sri",PSB
+N53,Bawang Assan,"Wong Soon Koh, Dato' Sri",PSB,5952,Ricky ak. Enteri,Bebas,645,913,"Wong Soon Koh, Dato' Sri",PSB
+N54,Pelawan,Micheal Tiang Ming Tee,GPS (SUPP),4413,David Wong Kee Woan,DAP,4313,100,Wong Kee Woan,PH (DAP)
+N54,Pelawan,Micheal Tiang Ming Tee,GPS (SUPP),4413,"Low Chong Nguan, Dr",PSB,3757,100,Wong Kee Woan,PH (DAP)
+N54,Pelawan,Micheal Tiang Ming Tee,GPS (SUPP),4413,Jamie Tiew Yen Houng,PBK,3146,100,Wong Kee Woan,PH (DAP)
+N54,Pelawan,Micheal Tiang Ming Tee,GPS (SUPP),4413,Janet Loh Wui Ping,ASPIRASI,302,100,Wong Kee Woan,PH (DAP)
+N55,Nangka,"Annuar bin Rapa'ee, Dr",GPS (PBB),12059,Intanurazean binti Wan Sapuan Daud,PSB,1255,10804,"Annuar Rapa'ee, Dr",GPS (PBB)
+N55,Nangka,"Annuar bin Rapa'ee, Dr",GPS (PBB),12059,Olivia Lim Wen Sia,PBK,1027,10804,"Annuar Rapa'ee, Dr",GPS (PBB)
+N56,Dalat,"Fatimah Abdullah, Dato Sri Hajah",GPS (PBB),7085,Salleh bin Mahali,PBK,460,6625,"Fatimah Abdullah @ Ting Sai Ming, Dato Sri Hajah",GPS (PBB)
+N57,Tellian,Royston bin Valentine,GPS (PBB),4282,Sait bin Junaidi,PSB,1365,2917,Yussibnosh Balo,GPS (PBB)
+N57,Tellian,Royston bin Valentine,GPS (PBB),4282,Mohd Arwin Lim Abdullah,PKR,287,2917,Yussibnosh Balo,GPS (PBB)
+N57,Tellian,Royston bin Valentine,GPS (PBB),4282,Zainuddin bin Budug,PBK,174,2917,Yussibnosh Balo,GPS (PBB)
+N58,Balingian,Abdul Yakub bin Arbi,GPS (PBB),4050,Yusuf bin Abdul Rahman,PSB,1146,2904,Abdul Yakub Arbi,GPS (PBB)
+N58,Balingian,Abdul Yakub bin Arbi,GPS (PBB),4050,Abdul Jalil bin Bujang,PKR,498,2904,Abdul Yakub Arbi,GPS (PBB)
+N59,Tamin,"Christopher Gira ak. Sambang, Ir",GPS (PRS),7778,"Joseph Entulu ak. Belaun, Datuk",PSB,4190,3588,"Christopher Gira ak. Sambang, Ir",GPS (PRS)
+N60,Kakus,"John Sikie ak. Tayai, Datuk",GPS (PRS),5307,Peter ak. Tuan,PSB,3410,1897,"John Sikie ak. Tayai, Datuk",GPS
+N60,Kakus,"John Sikie ak. Tayai, Datuk",GPS (PRS),5307,Ugik ak. Selipeh,Bebas,546,1897,"John Sikie ak. Tayai, Datuk",GPS
+N60,Kakus,"John Sikie ak. Tayai, Datuk",GPS (PRS),5307,Joshua Jabeng,PKR,375,1897,"John Sikie ak. Tayai, Datuk",GPS
+N60,Kakus,"John Sikie ak. Tayai, Datuk",GPS (PRS),5307,Philip Kelanang Diung,PBK,337,1897,"John Sikie ak. Tayai, Datuk",GPS
+N60,Kakus,"John Sikie ak. Tayai, Datuk",GPS (PRS),5307,Tiun ak. Kanun,Bebas,162,1897,"John Sikie ak. Tayai, Datuk",GPS
+N61,Pelagus,Wilson Nyabong ak. Ijang,GPS (PRS),2843,"Kristoffer Nyuak Bajok, Datuk",PSB,1794,1049,Wilson Nyabong ak. Ijang,GPS
+N61,Pelagus,Wilson Nyabong ak. Ijang,GPS (PRS),2843,Solomon ak. Kumbong,DAP,250,1049,Wilson Nyabong ak. Ijang,GPS
+N61,Pelagus,Wilson Nyabong ak. Ijang,GPS (PRS),2843,Nyambong ak. Sibat,PBK,88,1049,Wilson Nyabong ak. Ijang,GPS
+N61,Pelagus,Wilson Nyabong ak. Ijang,GPS (PRS),2843,Moses ak. Ripai,PBDSB,76,1049,Wilson Nyabong ak. Ijang,GPS
+N62,Katibas,Lidam ak. Assan,GPS (PBB),4198,Robertson Mawa ak. Luat,PSB,1201,2997,"Ambrose Blikau ak. Enturan, Dato Sri",GPS (PBB)
+N62,Katibas,Lidam ak. Assan,GPS (PBB),4198,Munan ak. Laja,PKR,763,2997,"Ambrose Blikau ak. Enturan, Dato Sri",GPS (PBB)
+N62,Katibas,Lidam ak. Assan,GPS (PBB),4198,Yunus bin Basri,PBK,149,2997,"Ambrose Blikau ak. Enturan, Dato Sri",GPS (PBB)
+N62,Katibas,Lidam ak. Assan,GPS (PBB),4198,Tengku ak. Gruna,Bebas,123,2997,"Ambrose Blikau ak. Enturan, Dato Sri",GPS (PBB)
+N62,Katibas,Lidam ak. Assan,GPS (PBB),4198,Sai ak. Malaka,PBDSB,62,2997,"Ambrose Blikau ak. Enturan, Dato Sri",GPS (PBB)
+N63,Bukit Goram,Jefferson Jamit ak. Unyat,GPS (PBB),4253,Joseph Jinggut,DAP,715,3538,Jefferson Jamit ak. Unyat,GPS
+N63,Bukit Goram,Jefferson Jamit ak. Unyat,GPS (PBB),4253,Robert Segie,PSB,689,3538,Jefferson Jamit ak. Unyat,GPS
+N63,Bukit Goram,Jefferson Jamit ak. Unyat,GPS (PBB),4253,Puso bin Bujang,PBK,297,3538,Jefferson Jamit ak. Unyat,GPS
+N63,Bukit Goram,Jefferson Jamit ak. Unyat,GPS (PBB),4253,Robert Saweng,PBDSB,259,3538,Jefferson Jamit ak. Unyat,GPS
+N64,Baleh,Nicholas Kudi ak. Jantai,GPS (PRS),3541,Koh ak. Kumbong,PSB,1632,1909,Kosong,
+N64,Baleh,Nicholas Kudi ak. Jantai,GPS (PRS),3541,Kenneth Usang ak. George Lagong,DAP,470,1909,Kosong,
+N64,Baleh,Nicholas Kudi ak. Jantai,GPS (PRS),3541,Irwan Iskandar Sukarno Abdullah @ Sukarno Layau,PBK,82,1909,Kosong,
+N65,Belaga,"Liwan Lagang, Datuk",GPS (PRS),3552,Henry Usat Bit,PSB,1307,2245,"Liwan Lagang, Datuk",GPS (PRS)
+N65,Belaga,"Liwan Lagang, Datuk",GPS (PRS),3552,"John Bampa, Dr",PBK,97,2245,"Liwan Lagang, Datuk",GPS (PRS)
+N65,Belaga,"Liwan Lagang, Datuk",GPS (PRS),3552,Siki Balarik,Bebas,81,2245,"Liwan Lagang, Datuk",GPS (PRS)
+N66,Murum,Kennedy Chukpai Ugon,GPS (PRS),4584,Stanley Ajang Batok,PSB,1665,2919,Chukpai Ugon,GPS (PRS)
+N66,Murum,Kennedy Chukpai Ugon,GPS (PRS),4584,Anie Amat,PKR,513,2919,Chukpai Ugon,GPS (PRS)
+N66,Murum,Kennedy Chukpai Ugon,GPS (PRS),4584,Kenneth Adan Silek,PBDSB,159,2919,Chukpai Ugon,GPS (PRS)
+N67,Jepak,"Talib Zulpilip, Datuk Haji",GPS (PBB),6277,"Raba'ah Tudin, Dr",PSB,2034,4243,"Talib Zulpilip, Datuk Haji",GPS (PBB)
+N67,Jepak,"Talib Zulpilip, Datuk Haji",GPS (PBB),6277,Stevenson ak. Joseph Sumbang,PBK,587,4243,"Talib Zulpilip, Datuk Haji",GPS (PBB)
+N67,Jepak,"Talib Zulpilip, Datuk Haji",GPS (PBB),6277,Tuah Kazan,Bebas,141,4243,"Talib Zulpilip, Datuk Haji",GPS (PBB)
+N68,Tanjong Batu,Johny Pang Leong Ming,GPS (SUPP),4092,Tony Chiew Chan Yew,DAP,4069,23,Chiew Chin Sing,PH (DAP)
+N68,Tanjong Batu,Johny Pang Leong Ming,GPS (SUPP),4092,Andy Yek Hock Siang,PBK,2204,23,Chiew Chin Sing,PH (DAP)
+N68,Tanjong Batu,Johny Pang Leong Ming,GPS (SUPP),4092,Tang Eng Hui,PSB,1071,23,Chiew Chin Sing,PH (DAP)
+N68,Tanjong Batu,Johny Pang Leong Ming,GPS (SUPP),4092,Chieng Lea Phing,ASPIRASI,93,23,Chiew Chin Sing,PH (DAP)
+N68,Tanjong Batu,Johny Pang Leong Ming,GPS (SUPP),4092,Wong Hau Ming,Bebas,38,23,Chiew Chin Sing,PH (DAP)
+N69,Kemena,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB),6339,"Bernard Tahim ak. Bael, Dr",PSB,2728,3611,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB)
+N69,Kemena,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB),6339,"John Brian Anthony, Dr",DAP,399,3611,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB)
+N69,Kemena,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB),6339,Jame Stephen,Bebas,331,3611,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB)
+N69,Kemena,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB),6339,Chelea Vanessa ak. William,PBK,294,3611,"Stephen Rundi ak. Utom, Dato' Sri Dr",GPS (PBB)
+N70,Samalaju,Majang ak. Renggi. Dato,GPS (PRS),7547,Tonny Ung,DAP,1504,6043,Majang ak. Renggi. Dato,GPS (PRS)
+N70,Samalaju,Majang ak. Renggi. Dato,GPS (PRS),7547,Reggie ak. Suel,PSB,1496,6043,Majang ak. Renggi. Dato,GPS (PRS)
+N70,Samalaju,Majang ak. Renggi. Dato,GPS (PRS),7547,Leighton ak. Manjah,PBK,509,6043,Majang ak. Renggi. Dato,GPS (PRS)
+N70,Samalaju,Majang ak. Renggi. Dato,GPS (PRS),7547,Baba ak. Emperam,PBDSB,199,6043,Majang ak. Renggi. Dato,GPS (PRS)
+N71,Bekenu,"Rosey binti Yunus, Datuk Hajah",GPS (PBB),6354,Norhafizah binti Joharie,PKR,957,5397,"Rosey binti Yunus, Datuk Hajah",GPS
+N71,Bekenu,"Rosey binti Yunus, Datuk Hajah",GPS (PBB),6354,Abu Bakar bin Amit,PSB,377,5397,"Rosey binti Yunus, Datuk Hajah",GPS
+N71,Bekenu,"Rosey binti Yunus, Datuk Hajah",GPS (PBB),6354,Desmond Gani,PBK,296,5397,"Rosey binti Yunus, Datuk Hajah",GPS
+N72,Lambir,"Ripin Lamat, Dr",GPS (PBB),6860,Lila binti Mohamad,PSB,1298,5562,"Ripin Lamat, Dr",GPS (PBB)
+N72,Lambir,"Ripin Lamat, Dr",GPS (PBB),6860,Zulhaidah binti Suboh,PKR,1139,5562,"Ripin Lamat, Dr",GPS (PBB)
+N72,Lambir,"Ripin Lamat, Dr",GPS (PBB),6860,Dyanne Oshield ak. Nickson,PBK,789,5562,"Ripin Lamat, Dr",GPS (PBB)
+N73,Piasau,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP),6790,Peter Hee Leh Keng,DAP,1802,4988,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP)
+N73,Piasau,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP),6790,Teo Jia Jun,PSB,816,4988,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP)
+N73,Piasau,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP),6790,Chung Siew Yen,PBK,665,4988,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP)
+N73,Piasau,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP),6790,Hanim binti Jaraee,ASPIRASI,121,4988,"Sebastian Ting Chiew Yew, Datuk",GPS (SUPP)
+N74,Pujut,Adam Yii Siew Sang,GPS (SUPP),5558,Alan Ling Sie Kiong,DAP,3992,1566,kosong,
+N74,Pujut,Adam Yii Siew Sang,GPS (SUPP),5558,Bruce Chai Khim Cheong,PSB,1667,1566,kosong,
+N74,Pujut,Adam Yii Siew Sang,GPS (SUPP),5558,Leslie Ting Siong Ngiap,PBK,1022,1566,kosong,
+N74,Pujut,Adam Yii Siew Sang,GPS (SUPP),5558,Chin Fen Siong,ASPIRASI,152,1566,kosong,
+N75,Senadin,"Lee Kim Shin, Dato Sri",GPS (SUPP),10535,Marcus Hugo,DAP,2944,7591,"Lee Kim Shin, Dato Sri",GPS (SUPP)
+N75,Senadin,"Lee Kim Shin, Dato Sri",GPS (SUPP),10535,Lee Tze Ha,PSB,1896,7591,"Lee Kim Shin, Dato Sri",GPS (SUPP)
+N75,Senadin,"Lee Kim Shin, Dato Sri",GPS (SUPP),10535,Ngieng Sheng Chung,PBK,1023,7591,"Lee Kim Shin, Dato Sri",GPS (SUPP)
+N75,Senadin,"Lee Kim Shin, Dato Sri",GPS (SUPP),10535,Bobby ak. William,PBDSB,511,7591,"Lee Kim Shin, Dato Sri",GPS (SUPP)
+N76,Marudi,"Penguang ak. Manggil, Datu Dr.",GPS (PBB),8169,"Sylvester Entri ak. Muran, Datuk",PSB,2193,5976,"Penguang Manggil, Datu Dr.",GPS (PDP)
+N76,Marudi,"Penguang ak. Manggil, Datu Dr.",GPS (PBB),8169,Elias Lipi ak. Mat,PKR,373,5976,"Penguang Manggil, Datu Dr.",GPS (PDP)
+N76,Marudi,"Penguang ak. Manggil, Datu Dr.",GPS (PBB),8169,Sawing ak. Kedit,PBDSB,124,5976,"Penguang Manggil, Datu Dr.",GPS (PDP)
+N76,Marudi,"Penguang ak. Manggil, Datu Dr.",GPS (PBB),8169,Gilbert Young,PBK,101,5976,"Penguang Manggil, Datu Dr.",GPS (PDP)
+N77,Telang Usan,Dennis Ngau,GPS (PBB),3861,Jau Jok @ Jenggo,PSB,1439,2422,Dennis Ngau,GPS (PBB)
+N77,Telang Usan,Dennis Ngau,GPS (PBB),3861,Gia Bala,PBK,1093,2422,Dennis Ngau,GPS (PBB)
+N77,Telang Usan,Dennis Ngau,GPS (PBB),3861,Philip Jau Ding,PKR,68,2422,Dennis Ngau,GPS (PBB)
+N78,Mulu,"Gerawat Jala, Dato",GPS (PBB),3731,"Son Radu, Profesor Dr.",PSB,856,2875,"Gerawat Jala, Dato",GPS
+N78,Mulu,"Gerawat Jala, Dato",GPS (PBB),3731,Richard Ibuh,PBK,810,2875,"Gerawat Jala, Dato",GPS
+N78,Mulu,"Gerawat Jala, Dato",GPS (PBB),3731,Roland Engan,PKR,199,2875,"Gerawat Jala, Dato",GPS
+N79,Bukit Kota,"Abdul Rahman bin Ismail, Datuk Dr Haji",GPS (PBB),6454,Rosli bin Amat,PSB,1468,4986,"Abdul Rahman Ismail, Datuk Dr Haji",GPS (PBB)
+N79,Bukit Kota,"Abdul Rahman bin Ismail, Datuk Dr Haji",GPS (PBB),6454,Lim Lian Hun,PBK,206,4986,"Abdul Rahman Ismail, Datuk Dr Haji",GPS (PBB)
+N79,Bukit Kota,"Abdul Rahman bin Ismail, Datuk Dr Haji",GPS (PBB),6454,Herun bin Bungsu,Bebas,62,4986,"Abdul Rahman Ismail, Datuk Dr Haji",GPS (PBB)
+N80,Batu Danau,Paulus Palu ak. Gumbang,GPS (PBB),3030,Ali ak. Adap,PSB,2324,706,Palu @ Paulus ak. Gumbang,GPS (PDP)
+N80,Batu Danau,Paulus Palu ak. Gumbang,GPS (PBB),3030,Racha Balang,PKR,268,706,Palu @ Paulus ak. Gumbang,GPS (PDP)
+N80,Batu Danau,Paulus Palu ak. Gumbang,GPS (PBB),3030,"Petrus Bulan, Profesor Dr.",PBK,80,706,Palu @ Paulus ak. Gumbang,GPS (PDP)
+N81,Ba'kelalan,Baru Bian,PSB,2687,Sam Laya,GPS (PDP),2007,680,Baru Bian,PSB
+N81,Ba'kelalan,Baru Bian,PSB,2687,Peter @ Pita Asut,PBK,110,680,Baru Bian,PSB
+N81,Ba'kelalan,Baru Bian,PSB,2687,Martin Samuel Labo,PKR,57,680,Baru Bian,PSB
+N81,Ba'kelalan,Baru Bian,PSB,2687,Agnes Padan,Bebas,55,680,Baru Bian,PSB
+N82,Bukit Sari,"Awang Tengah bin Ali Hassan, Datuk Amar Haji",GPS (PBB),6385,Riyah bin Basrah,PBK,749,5636,"Awang Tengah bin Ali Hassan, Datuk Amar Haji",GPS (PBB)
+N82,Bukit Sari,"Awang Tengah bin Ali Hassan, Datuk Amar Haji",GPS (PBB),6385,Alias bin Mail,PSB,165,5636,"Awang Tengah bin Ali Hassan, Datuk Amar Haji",GPS (PBB)
